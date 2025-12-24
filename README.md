@@ -105,7 +105,7 @@ Modul | Topik | Status
 
 ```bash
 # 1. Clone repository ini
-git clone https://github.com/username/belajar-python.git
+git clone https://github.com/naidrahiqa/belajar-python.git
 cd belajar-python
 
 # 2. Baca getting started guide
@@ -213,8 +213,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 💬 Feedback & Support
 
-- 🐛 **Issues**: Laporkan bug atau saran di [GitHub Issues](https://github.com/username/belajar-python/issues)
-- 💡 **Diskusi**: Gunakan [GitHub Discussions](https://github.com/username/belajar-python/discussions)
+- 🐛 **Issues**: Laporkan bug atau saran di [GitHub Issues](https://github.com/naidrahiqa/belajar-python/issues)
+- 💡 **Diskusi**: Gunakan [GitHub Discussions](https://github.com/naidrahiqa/belajar-python/discussions)
 - ⭐ **Star**: Jika framework ini membantu, berikan star!
 
 ## 📊 Progress
